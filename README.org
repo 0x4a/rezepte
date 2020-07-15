@@ -1,26 +1,24 @@
-* Rezepte                                                            :cooking:
-** Steffen Hensslers Spaghetti mit frischer Tomatensauce
-*** Zutaten für 4 Personen:
-- 250g Spaghetti
+* Rezepte
+** Kochen
+
+*** Rotweinsoße mit grünen Nudeln
+**** Zutaten für 2 Personen
+- 1 Zwiebel
+- 1 Knoblauchzehe
+- 1 EL Öl
+- 150g roher Schinken (eventuell roher/gekochter halb/halb)
+- 2 EL Tomatenmark
+- 125 ml Rotwein
+- 2 EL Creme Fraiche
 - Salz
-- 1 Schalotte
-- 1 Knolauchzehe
-- 500g reife Flaschen- oder Kirschtomaten
-- 1,5 EL Tomatenmark
-- 1 kleine getrocknete Chilischote
 - Pfeffer
-- Zucker
-- 3 EL Olivenöl
-- 1 Büffelmozzarella (250g)
-- 1 Handvoll Basilikumblätter
+- Paprikapulver
 
-*** Zubereitung:
-- Spaghetti nach Packungsanleitung bissfest garen
-- inzwischen Schalotte und Knoblauch schälen. Den Stielansatz der Tomaten keilförmig herausschneiden. Tomaten, Schalotte und Knoblauch grob zerkleinern und in eine Schüssel geben. Tomatenmark und zerbröselte Chilischote ebenfalls in die Schüssel geben. Alles mit dem Stabmixer fein pürieren. Sauce durch ein feines Sieb streichen und mit Salz, Pfeffer und 1 Prise Zucker würzen. Olivenöl einrühren.
-- Mozzarella abtropfen lassen und in Stücke zupfen. Nudeln abgießen, mit 50ml Kochwasser und der Sauce vermengen. Mit Basilikumblättern und Mozzarella bestreuen. Sofort servieren.
+**** Zubereitung
+Zwiebeln und Knoblauch sehr fein hacken und leicht andünsten, Schinken in feine Streifen schneiden und 5 min mitdünsten. Tomatenmark dazu rühren, würzen, mit Rotwein ablöschen. Creme Fraiche dazu und 5 min köcheln lassen.
 
-** Super leckere braune Soße
-*** Zutaten für 2 Personen:
+*** braune Soße
+**** Zutaten für 2 Personen:
 - 100ml Rotwein
 - 2 EL Worcestersauce
 - 1 TL Tomy Senf mild
@@ -35,44 +33,33 @@
 - Basilikum
 - 1 TL TK Kräuter Iglo feldfrische Mischung
 
-*** Zubereitung:
+**** Zubereitung:
 Nach dem Braten von Fleisch in der selben Pfanne die Schalotten und den Knoblauch andünsten.
 Dann Rotwein, Worcestersauce und Senf mischen und damit ablöschen. Gut einkochen lassen. Anschließend die Brühe zugeben, ebenfalls gut einkochen lassen. Die Creme Fraiche einrühren, würzen
 
-** Rotweinsoße mit grünen Nudeln
-*** Zutaten für 2 Personen
-- 1 Zwiebel
-- 1 Knoblauchzehe
-- 1 EL Öl
-- 150g roher Schinken (eventuell roher/gekochter halb/halb)
-- 2 EL Tomatenmark
-- 125 ml Rotwein
-- 2 EL Creme Fraiche
+
+*** Steffen Hensslers Spaghetti mit frischer Tomatensauce
+**** Zutaten für 4 Personen:
+- 250g Spaghetti
 - Salz
+- 1 Schalotte
+- 1 Knolauchzehe
+- 500g reife Flaschen- oder Kirschtomaten
+- 1,5 EL Tomatenmark
+- 1 kleine getrocknete Chilischote
 - Pfeffer
-- Paprikapulver
+- Zucker
+- 3 EL Olivenöl
+- 1 Büffelmozzarella (250g)
+- 1 Handvoll Basilikumblätter
 
-*** Zubereitung
-Zwiebeln und Knoblauch sehr fein hacken und leicht andünsten, Schinken in feine Streifen schneiden und 5 min mitdünsten. Tomatenmark dazu rühren, würzen, mit Rotwein ablöschen. Creme Fraiche dazu und 5 min köcheln lassen.
+**** Zubereitung:
+- Spaghetti nach Packungsanleitung bissfest garen
+- inzwischen Schalotte und Knoblauch schälen. Den Stielansatz der Tomaten keilförmig herausschneiden. Tomaten, Schalotte und Knoblauch grob zerkleinern und in eine Schüssel geben. Tomatenmark und zerbröselte Chilischote ebenfalls in die Schüssel geben. Alles mit dem Stabmixer fein pürieren. Sauce durch ein feines Sieb streichen und mit Salz, Pfeffer und 1 Prise Zucker würzen. Olivenöl einrühren.
+- Mozzarella abtropfen lassen und in Stücke zupfen. Nudeln abgießen, mit 50ml Kochwasser und der Sauce vermengen. Mit Basilikumblättern und Mozzarella bestreuen. Sofort servieren.
 
-** Scharfer Sardellendip
-- 2 TL Ajvar
-- 1 TL Tomatenmark
-- 1 TL Sambal Oelek
-- 4 Sardellen
-- 1-2 Pepperoni
-- 10 Oliven
-
-frische Kräuter:
-- Thymian
-- Majoran
-- Basilikum
-- etwas Knoblauch
-
-Alle Zutaten kleinschneiden und in einer Schüssel mischen.
-
-** Italienische Paprikacreme
-*** Zutaten für 4 Personen:
+*** italienische Paprikacreme
+**** Zutaten für 4 Personen:
 - 3 rote Paprikaschoten
 - 1 kleine Zwiebel
 - 30g Margarine
@@ -87,39 +74,13 @@ Alle Zutaten kleinschneiden und in einer Schüssel mischen.
 - Salz
 - Basilikumblätter
 
-*** Zubereitung
+**** Zubereitung
 Paprika waschen, entkernen und fein würfeln. Die Zwiebel kleinhacken und in Margarine anschwitzen. Einige Paprikawürfel zur Seite legen, die übrigen in die Pfanne geben und kurz mit garen. Paprikagewürz, Tomatenmark und Instant-Haferflocken hinzufügen und anrösten. Mit Traubensaft und Gemüsebrühe ablöschen und ca 20 min köcheln lassen.
-
 Die Suppe pürieren und cremig einkochen lassen. Von der Herdplatte ziehen und den Großteil der sauren Sahne einrühren. Mit gepresstem Knoblauch, Pfeffer und Salz abschmecken. Die Paprikacreme mit einem Tupfer saurer Sahne, den Basilikumblättern und den Paprikawürfeln garniert servieren. 
-
 zusätzlich Hackbällchen und Croutons 
 
-** Lachsfilet auf Porree mit Senf-Bechamel
-*** Zutaten für 4 Personen:
-- 3 Stangen Lauch
-- 600g Lachsfilet (ohne Haut)
-- 1 EL Zitronensaft
-- 5 EL Butter
-- Salz
-- Pfeffer
-- 400ml Gemüsebrühe
-- 3 EL Mehl
-- 100ml Milch
-- 100ml trockener Weißwein
-- 2 EL Senf
-- 1 Prise Zucker
-- 2 EL Butterschmalz
-- 4 Stiele Petersilie
-
-*** Zubereitung:
-Lauch putzen, waschen und in Ringe schneiden. Fisch waschen, trocken tupfen, in 12 schmale Stücke schneiden. Mit Zitronensaft beträufeln. 2 EL Fett in einem Topf erhitzen, Lauch darin unter Wenden kurz andünsten. Mit Salz und Pfeffer würzen. 100ml Gemüsebrühe zugießen, aufkochen und zugedeckt ca 8 min garen.
-
-3 EL Fett in einem Topf erhitzen. Mehl darin anschwitzen. Unter Rühren mit 300 ml Gemüsebrühe, Milch und Wein ablöschen. Senf zufügen. Aufkochen und ca 5 min köcheln lassen. Mit Salz, Pfeffer und Zucker abschmecken, Warm stellen.
-
-Schmalz in einer Pfanne erhitzen. Lachs darin von jeder Seite ca 2 min braten. Mit Salz und Pfeffer würzen. Petersilie waschen und, bis auf etwas zum garnieren, in Streifen schneiden. Fisch, Porree und Sauce mit Petersilie bestreut anrichten. Dazu schmeckt Kartoffelbrei.
-
-** Lachs mit Mandel-Bohnen
-*** Zutaten für 4 Personen:
+*** Lachs mit Mandel-Bohnen
+**** Zutaten für 4 Personen:
 - 1 rote Paprikaschote
 - 300g grüne Bohnen
 - Salz
@@ -135,11 +96,11 @@ Schmalz in einer Pfanne erhitzen. Lachs darin von jeder Seite ca 2 min braten. M
 - 50g Mandelblättchen
 - 1 EL Butter
 
-*** Zubereitung:
+**** Zubereitung:
 Paprika in Streifen schneiden. Bohnen in Salzwasser ca 15 min kochen, abgießen. Couscous in eine Form geben. Brühe aufkochen, darübergeben. Couscous ca 10 min quellen lassen. Petersilie hacken, Ingwer reiben. Fisch mit Salz, Pfeffer und Zitronensaft würzen. Öl erhitzen. Lachs und Paprika darin 6-8 min braten. Honig, Ingwer und Petersilie zugeben. Die Mandeln in heißer Butter anrösten. Bohnen darin schwenken. 
 
-** Lachsfilet in Pistazienbutter
-*** Zutaten für 4 Personen:
+*** Lachsfilet in Pistazienbutter
+**** Zutaten für 4 Personen:
 - 1 Bio-Zitrone
 - 5 Stiele Petersilie
 - 2 EL Pistazienkerne
@@ -151,198 +112,28 @@ Paprika in Streifen schneiden. Bohnen in Salzwasser ca 15 min kochen, abgießen.
 - 2 EL Öl
 - 40g + 1 EL Butter
 
-*** Zubereitung:
-Zitrone waschen, trocken tupfen. Hälfte der Schale abschälen, in feine Streifen schneiden. Petersilie waschen, Blättchen abzupfen, hacken. Pistazien hacken, mit Petersilie und Zitronenschale msichen. Nudeln in Salzwasser nach Packungsanleitung kochen. Lachs in 4 Stücke schneiden. Zitrone halbieren, Saft auspressen. Lachs mit 1-2 EL Zitronensaft, Salz und Pfeffer würzen. In Mehl wenden. Öl in eienr beschichteten Pfanne erhitzen. Fisch darin unter wenden ca 5 min braten. 40g Butter schmelzen, Pistazienmischung darin darin schwenken. Nudeln abgießen, 1 EL Butter, Rest Zitronensaft und -schale untermischen. Mit Salz und Pfeffer würzen. Lachs mit Pistazienbutter und Nudeln anrichten.
+**** Zubereitung:
+Zitrone waschen, trocken tupfen. Hälfte der Schale abschälen, in feine Streifen schneiden. Petersilie waschen, Blättchen abzupfen, hacken. Pistazien hacken, mit Petersilie und Zitronenschale mischen. Nudeln in Salzwasser nach Packungsanleitung kochen. Lachs in 4 Stücke schneiden. Zitrone halbieren, Saft auspressen. Lachs mit 1-2 EL Zitronensaft, Salz und Pfeffer würzen. In Mehl wenden. Öl in eienr beschichteten Pfanne erhitzen. Fisch darin unter wenden ca 5 min braten. 40g Butter schmelzen, Pistazienmischung darin darin schwenken. Nudeln abgießen, 1 EL Butter, Rest Zitronensaft und -schale untermischen. Mit Salz und Pfeffer würzen. Lachs mit Pistazienbutter und Nudeln anrichten.
 
-** Rosmarin-Sahne-Hähnchen mit Parmesankruste
-*** Zutaten:
-- 300-400g Hähnchen-Minutenschnitzel
-- 250ml Sahne
-- 3-4 Zehen Knoblauch
-- Rosmarin
-- Parmesan
-- halbe Zwiebel
+*** GR Grießbrei
+500ml Milch/Brühe
+70g Grieß
+(20g Butter)
 
-*** Zubereitung:
-Backofen vorheitzen auf 200°C.
-Zwiebel und Minutenschnitzel in der Pfanne kurz anbraten (nur eine Seite). Salzen und Pfeffern.
-Knoblauchzehen schälen und mit der flachen Messerseite plattdrücken. Schnitzel in eine Auflaufform legen und mit kleingerupftem Rosmarin und weiteren, gepressten Knoblauchzehen belegen. Sahne in die Auflaufform gießen, etwas Salz und Pfeffer. Die zerdrückten Knoblauchzehen und einige Rosmarinzweige neben das Fleisch in die Form geben. Fleisch mit Parmesan bestreuen und im Ofen 10-15 min backen bis der Käse braun ist. Dazu Reis oder Kartoffeln.
+Zucker nach Belieben
 
-** Nudeln in Salbei-Zitronen-Butter
-*** Zutaten für 4 Personen:
-- 30g Pinienkerne
-- 2 Stangen Staudensellerie
-- 3 Möhren
-- 400g Tortiglioni-Nudeln
-- Salz
-- Pfeffer
-- 1 Bio-Zitrone
-- 75g Butter
-- halber Bund Salbei
-- eventuell Zucker
+** Backen
 
-*** Zubereitung:
-Pinienkerne ohne Fett rösten. Sellerie putzen, Möhren schälen. Beides waschen, fein würfeln. Nudeln nach Anleitung kochen. Zitrone waschen, Schale abschälen, in Streifen schneiden. Zitrone halbieren, eine Hälfte auspressen. Butter erhitzen. Gemüsewürfel darin 3-4 min dünsten. Salbei waschen, und bis auf etwas zum garnieren, Blättchen abzupfen. Mit Pinienkernen, Zitronensaft und -schale zum Gemüse geben. Nudeln abgießen, unterheben, abschmecken. Mit Rest Salbei garnieren und anrichten.
+**** Zubereitung
 
-** Schnippelbohnen-Nudeln
-*** Zutaten für 4 Personen:
-- 500g Nudeln
-- 400g Bohnen
-- 2 Chilis, in feine Ringe geschnitten
-- 2 Knoblauchzehen, fein gehackt
-- halber Bund Petersilie, fein gehackt
-- 100g Ricotta, zerbröselt
-- 2 EL Pinienkerne, geröstet
-- 4 EL Olivenöl
-- Salz
-- Pfeffer
-
-*** Zubereitung:
-Die Spitzen der Bohnen abschneiden, die Fäden abziehen und ca 9 min bissfest garen, abgießen und etwas abkühlen lassen.
-Die Bohnen schräg in Streifen schneiden und im erhitzen Olivenöl leicht anbräunen, Knoblauch und Chilli zufügen. Petersilie beimischen, mit Salz und Pfeffer würzen. Nudeln im Salzwasser al dente kochen, abgießen und mit den Bohnen vermengen. Ricotta vor dem Servieren über die Nudel-Bohnen Mischung geben und mit den Pinienkernen bestreuen.
-
-** Rotes Dressing für Rucolasalat
-- 2 EL Balsamico bianco
-- 2 EL Olivenöl
-- 4 EL Joghurt mild
-- 1 Messerspitze Thomy Senf mild
-- 1 TL Flying Goose
-- 0,5 TL Bouillon-Pulver
-- 1 TL Thymian
-- 1 Prise Paprikapulver rosenscharf
-- 0,5-1 TL Currypulver
-- 1 Prise Basilikum
-- 1 Prise Oregano
-- Salz
-- Pfeffer
-
-Als erstes Öl und Essig mischen, dann alle anderen Zutaten mit dem Schneebesen utnerrühren.
-Dazu passt: Hähnchenbrustfilet, frische Parmesanrasplen und Cherrytomaten.
-
-** Feuriges Salatdressing
-- 1 kleine Chilischote
-- 4 EL Thai-Sweet-Chilli Sauce
-- 4 EL Orangensaft
-- 2 EL Apfelessig
-- 4-5 EL Öl
-- Salz
-- Pfeffer
-- Zucker
-
-Chilischote aufschneiden und entkernen, fein hacken.
-Chili, Chilisauce, Orangensaft und Apfelessig verrühren. Kräftig mit Salz, Pfeffer und etwas Zucker abschmecken. Das Öl darunterschlagen. Zum Beispiel für Melonensalat mit Feta und Salatmix.
-
-** schneller Gemüse-Wok
-Nudeln kochen
-
-Zwiebel schneiden --> braten
-Bambussprossen
-Sojaspossen
-Koriander (Stiele mit in den Wok geben)
-mit Wasser ablöschen
-
-Nudeln zum Gemüse dazugeben, Korianderblätter und bisschen Zitrone, mit Salz und Pfeffer abschmecken. Thai-Sweet-Chili Sauce unterrühren.
-
-** griechische Gemüsepfanne
-Zutaten:
-Zitronensaft
-AUbergine
-Zuccini
-Schafskäse
-Oliven
-Oregano & Basilikum
-Flusskrebse & Knoblauch
-
-** Banana-Peanutbutter-Chocolate-Cake=
-20 cm Durchmesser
-
-*** Zutaten Teig:
-- 80g Butter
-- 60g brauner Zucker
-- 1 Päckchen Vanillezucker
-- 180g Mehl
-- 2 TL Backpulver
-- 1 Ei
-- halbes Fläschen Rum-Backaroma
-- 3-4 EL Kakaopulver (Dutch)
-- 1 Prise Salz
-- 1 Messerspitze echte Vanille
-- Milch
-
-*** Zutaten Creme:
-- 200g Sahne
-- 1 Päckchen Sahnesteif
-- 3-4 EL brauner Zucker
-- 2-3 gehäufte EL Ernussbutter OHNE Stückchen
-- 2 große Bananen
-
-*** Zubereitung:
-Mehl und Backpulver in eine Schüssel sieben, Ei und geschmolzene Butter mit den restlichen Zutaten in dei Schüssel geben und verrühren. Dann langsam so viel Milch zufügen bis ein fester aber rührbarer Teug entsteht.
-Temperatur: 180-200°C
-Backzeit: 15-20 min
-
-Die Sahne zusammen mit dem Zucker und dem Sahnesteif aufschlagen und die Erdnussbutter unterheben.
-
-Den Kuchen auskühlen lassen und halbieren, mit Creme bestreichen und mit Bananenscheiben belegen. Deckel darauf legen und komplett & gleichmäßig mit Creme bestreichen. Mit einigen Zartbitterstreuseln garnieren.
-
-** Heidelbeerkuchen
-160g Mehl
-250 ml Milch
-5 Eier
-300-500g Heidelbeeren
-Zucker
-
-Mehl, Milch und Eier mischen. Teig in eine heiße Pfanne geben, ganz kurz braten. Heidelbeeren einfach oben draufstreuen und mit Zucker bestreuen, dann im Ofen backen.
-
-** GR Pfannkuchenteig
+*** GR Pfannkuchenteig
 250g Mehl
 500ml Milch
 3 Eier
 
 für Wraps: Salz, Pfeffer, Schnittlauch
 
-** GR Creme Pattise
-1l Milch
-1 Vanilleschote
-200g Zucker
-12 Eigelb
-40g Speisestärke
-40g Mehl
-
-** GR Grießbrei
-500ml Milch/Brühe
-70g Grieß
-(20g Butter)
-
-Zucker nach belieben
-
-** gebackene Banane
-125g Mehl
-1 gehäufter TL Backpulver
-2 EL Milch
-20g Butter, geschmolzen
-1 EL (Vanille)Zucker 
-3 Bananen
-Öl zum frittieren
-Honig
-
-Mehl, Backpulver, Milch, Butter und Zucker verrühren, Wasser zugeben bis ein dickflüssiger Teig entsteht. Die Bananen in ca 3cm lange Stücke schneiden.
-Einen Wok (oder Topf) zu einem Viertel mit Öl füllen und auf 180°C erhitzen. Portionsweise jeweils einige Stücke in den Teig tauchen und ca 3 min goldbraun frittieren, auf Küchenpapier abtropfen lassen. Nach belieben mit Honig beträufeln.
-
-** Lam-Bada-Torte
-Bisquittboden mit Bananenhälften belegen und mit Zitronensaft beträufeln.
-
-2 Päckchen gemalene Gelatine
-1 EL Zucker
-500ml Orangensaft
-
-6min aufkochen, Stufe 3
-
-Guß über die Bananen gießen.
-
-2 Becher Sahne mit Sahnesteif aufschlagen. Auf erkalteten Kuchen geben und mit Schoko-Raspeln bestreuen.
-
-** Waffeln
+*** Waffeln
 250g Mehl
 450ml Milch
 2 Eigelb + Eischnee
@@ -352,16 +143,8 @@ halbes Päckchen Backpulver
 
 Mehl, Milch, Eigelb, Backpulver und Butter mischen und ganz zuletzt Eischnee unterheben. Zucker nach belieben.
 
-** Schwarzwälder Sandwich
-weißes Brot
-schwarzwälder Schinken
-Ceme Fraiche mit Salz und Pfeffer
-Salatblatt
-frischer Schnittlauch
-Schalottenringe
 
-
-** LECKER
+** Kochideen
 - Knoblauch-Rahmsoße
 - Flusskrebse Petersilie+Dill mit Reis/Nudeln
 - Knoblauchschnitzel mit Käsespätzle
@@ -388,11 +171,3 @@ Schalottenringe
 - fisch mit zitronen-dill-soße
 - hähnchen/pute mit kräutersoße und bohnengemüse
 - flusskrebe mit linguini & zitrone
-
-** Mystery-Mexikanisch ???
-rote & weiße Bohnen überbacken
-Polenta
-Fleischspießchen
-Salsa-Tomaten-Gemüse-Sauce?
-Chili?
-
