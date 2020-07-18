@@ -5,6 +5,7 @@
 <!-- TOC -->
 
 - [Rezepte](#rezepte)
+  - [Inhalt](#inhalt)
   - [Kochen](#kochen)
     - [Rotweinsoße mit grünen Nudeln](#rotweinso%C3%9Fe-mit-gr%C3%BCnen-nudeln)
     - [braune Soße](#braune-so%C3%9Fe)
@@ -191,7 +192,13 @@ Bei 170 Grad ca 40 - 60 min backen --> Stäbchenprobe
 - Puderzucker
 
 #### Zubereitung
-c:\Users\Jackel\Downloads\WhatsApp Image 2020-06-06 at 02.50.05.jpeg
+Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in einen Rührbecher gießen. Zucker und zerbröckelte Hefe dazu und alles zusammen so gut verrühren, bis sich die Hefe weitgehend aufgelöst hat. Zitronenschale und Eier dazugeben und alles zusammen gut verquirlen. Am besten kurz mit einem Zauberstab, ansonsten mit dem Handmixer.
+Diese Flüssigkeit in einem Schwung zum Mehl gießen, weiche Butter und Salz dazu und sofort alles zusammen kräftig verkneten. So lange kneten, bis der Teig elastisch und glatt ist (von Hand etwa 10 Min.). Mit einem feuchten Küchentuch (damit der Teig oben nicht antrocknet) abdecken und um das Doppelte aufgehen lassen. (Kann 2 Stunden dauern.)
+
+
+Eine Backunterlage mit Mehl bestreuen und den gegangenen Hefeteig darauf geben und diesen von Hand nochmals durchkneten. Dann auf die Dicke eines kleinen Fingers auswellen, mit zerlassenem Fett bestreichen und Zucker+Zimt darauf streuen. Mit dem Rädchen ca 3cm breite Streifen schneiden und *locker* aufrollen und auf ein gut gefettetes Blech setzen, dort nochmal aufgehen lassen. Bei 210° f+r ca 20 Minuten hellbraun backen. Vor dem Backen mit Ei oder nach dem Backen mit Zuckerguss bestreichen.
+
+
 
 ### weihnachtsbrötle
 ### spätzle
