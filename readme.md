@@ -17,10 +17,11 @@
   - [Backen](#backen)
     - [Marmorkuchen](#marmorkuchen)
     - [Zimtschnecken](#zimtschnecken)
+    - [Spätzle](#sp%C3%A4tzle)
+    - [Gulasch](#gulasch)
     - [weihnachtsbrötle](#weihnachtsbr%C3%B6tle)
-    - [spätzle](#sp%C3%A4tzle)
-    - [gulasch](#gulasch)
     - [maultaschen](#maultaschen)
+    - [Gelbes Thai Curry](#gelbes-thai-curry)
     - [GR Pfannkuchenteig](#gr-pfannkuchenteig)
     - [Waffeln](#waffeln)
   - [Kochideen](#kochideen)
@@ -198,12 +199,47 @@ Diese Flüssigkeit in einem Schwung zum Mehl gießen, weiche Butter und Salz daz
 
 Eine Backunterlage mit Mehl bestreuen und den gegangenen Hefeteig darauf geben und diesen von Hand nochmals durchkneten. Dann auf die Dicke eines kleinen Fingers auswellen, mit zerlassenem Fett bestreichen und Zucker+Zimt darauf streuen. Mit dem Rädchen ca 3cm breite Streifen schneiden und *locker* aufrollen und auf ein gut gefettetes Blech setzen, dort nochmal aufgehen lassen. Bei 210° f+r ca 20 Minuten hellbraun backen. Vor dem Backen mit Ei oder nach dem Backen mit Zuckerguss bestreichen.
 
+### Spätzle
+#### Zutaten
+- 500 g Mehl
+- 6 Eier
+- 2 TL Salz
+- Wasser nach Gefühl (wenig)
+
+### Gulasch
+#### Zutaten
+- 1 kg Rindfleisch
+- 1 kg Zwiebeln
+- 1-2 Paprikaschoten
+- 2-3 Knoblauchzehen
+- 1 EL Tomatenmark
+- 4-5 TL scharfes Paprikapulver
+- 1 TL Paprikapulver Edelsüß
+- 1 TL Kümmel
+- 1 EL Majoran
+- 1-2 getrocknete Lorbeerblätter
+- 1 Brühwürfel
+- 1 EL Weißweinessig
+- Salz/Pfeffer
+- 200 ml Rotwein
+- 2-3 Tassen Leitungswasser
+
+
+#### Zubereitung
+
+Zuerst Zwiebeln, Fleisch, Paprika und Knoblauch klein schneiden. Zwiebeln separat anbraten, um die Röstaromen ideal zu erzeugen.
+
+Dann Fleisch und Tomatenmark in eine große Pfanne/Topf geben und zusammen etwa 2 Minuten bei mittel-hoher Hitze unter rühren anbraten. Dann die Zwiebeln hinzugeben und weiter 2 bis 3 Minuten anbraten. Sind die Fleischstücke außen nicht mehr sichtbar roh, Paprikastücke, Wasser/Brühe, Wein, Essig, Paprikapulver, Kümmel, Majoran, Knoblauch und Lorbeerblätter zugeben.
+
+Langsam schmoren, min 45 min, besser 2-3 h.
+
+Immer wieder bisschen Wasser zugeben. Falls weiter eingedickt werden soll, vor dem letzten Aufgießen das Fleisch mehlen (20 g), dann Wasser zufügen und einige Zeit kochen lassen.
 
 
 ### weihnachtsbrötle
-### spätzle
-### gulasch
 ### maultaschen
+### Gelbes Thai Curry
+https://getinspiredeveryday.com/food/my-favorite-yellow-thai-curry/
 
 ### GR Pfannkuchenteig
 - 250g Mehl
