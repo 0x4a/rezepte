@@ -17,6 +17,7 @@
     - [Steffen Hensslers Spaghetti mit frischer Tomatensauce](#steffen-hensslers-spaghetti-mit-frischer-tomatensauce)
     - [italienische Paprikacreme](#italienische-paprikacreme)
     - [Lachs mit Mandel-Bohnen](#lachs-mit-mandel-bohnen)
+    - [Sopaipillas con Pebre](#sopaipillas-con-pebre)
     - [Lachsfilet in Pistazienbutter](#lachsfilet-in-pistazienbutter)
     - [GR Grießbrei](#gr-grie%C3%9Fbrei)
   - [Backen](#backen)
@@ -182,6 +183,50 @@ zusätzlich Hackbällchen und Croutons
 
 #### Zubereitung:
 Paprika in Streifen schneiden. Bohnen in Salzwasser ca 15 min kochen, abgießen. Couscous in eine Form geben. Brühe aufkochen, darübergeben. Couscous ca 10 min quellen lassen. Petersilie hacken, Ingwer reiben. Fisch mit Salz, Pfeffer und Zitronensaft würzen. Öl erhitzen. Lachs und Paprika darin 6-8 min braten. Honig, Ingwer und Petersilie zugeben. Die Mandeln in heißer Butter anrösten. Bohnen darin schwenken. 
+
+
+### Sopaipillas con Pebre
+#### Sopaipillas
+##### Zutaten:
+
+- 1 kg Mehl
+- 1 Kürbis (Hokkaido o.ä)
+- 100 g Butter
+- Salz
+
+
+##### Zubereitung:
+
+Kürbis mit Schale in Stücken in Salzwasser kochen bis er weich ist. Etwas vom Kochwasser aufbewahren.
+
+Kürbis etwas abkühlen lassen bis er lauwarm ist. Mit dem Stabmixer pürieren.
+
+Einen Teig aus Mehl, Kürbis, lauwarmer Butter und Salz formen, gut durchkneten. Die Masse soll einen relativ festen aber elastischen Teig ergeben, ggf etwas vom Kochwasser zugeben. Teig für eine Stunde im Kühlschrank ruhen lassen.
+
+Teig auf max. 1 cm Dicke ausrollen. Daraus mit einem Glas o.ä. Kreise ausstechen, Durchmesser zwischen 5 und 12 cm. Oberfläche mit einer Gabel auf einer Seite einstechen.
+
+In heißem Öl frittieren bis zur gewünschten Bräunung, abhängig von Durchmesser und Dicke etwa 2 Minuten pro Seite (schwimmenden Teig wenden).
+Mit Dicke und Durchmesser experimentieren, zwischen saftigem Brot-Ersatz und krossem Cracker ist alles möglich, finde deinen eigenen Stil!
+
+
+#### Pebre
+##### Zutaten:
+
+- 1 große Zwiebel
+- 1 Bund Koriander
+- 2 Knoblauchzehen
+- 1 große Tomate
+
+##### Zubereitung:
+
+Zwiebel und Knoblauch fein würfeln. Koriander (ohne Stiele) fein hacken.
+
+Tomate von Samen und Glibber befreien, die festen Teile ebenfalls würfeln.
+
+Alle Zutaten vermischen, und mit Salz, Pfeffer, Öl und Zitronensaft oder Essig abschmecken. Wenn zu trocken ggf einen Schluck Mineralwasser zugeben.
+
+Mindestens 30 Minuten ziehen lassen damit sich die Geschmäcker vermischen, kalt servieren.
+
 
 ### Lachsfilet in Pistazienbutter
 #### Zutaten für 4 Personen:
