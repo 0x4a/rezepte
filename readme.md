@@ -9,6 +9,11 @@
   - [Kochen](#kochen)
     - [Rotweinsoße mit grünen Nudeln](#rotweinso%C3%9Fe-mit-gr%C3%BCnen-nudeln)
     - [braune Soße](#braune-so%C3%9Fe)
+    - [Spätzle](#sp%C3%A4tzle)
+    - [Gulasch](#gulasch)
+    - [maultaschen](#maultaschen)
+    - [Sate-Spieße](#sate-spie%C3%9Fe)
+    - [Gelbes Thai Curry](#gelbes-thai-curry)
     - [Steffen Hensslers Spaghetti mit frischer Tomatensauce](#steffen-hensslers-spaghetti-mit-frischer-tomatensauce)
     - [italienische Paprikacreme](#italienische-paprikacreme)
     - [Lachs mit Mandel-Bohnen](#lachs-mit-mandel-bohnen)
@@ -17,13 +22,9 @@
   - [Backen](#backen)
     - [Marmorkuchen](#marmorkuchen)
     - [Zimtschnecken](#zimtschnecken)
-    - [Spätzle](#sp%C3%A4tzle)
-    - [Gulasch](#gulasch)
-    - [weihnachtsbrötle](#weihnachtsbr%C3%B6tle)
-    - [maultaschen](#maultaschen)
-    - [Gelbes Thai Curry](#gelbes-thai-curry)
     - [GR Pfannkuchenteig](#gr-pfannkuchenteig)
     - [Waffeln](#waffeln)
+    - [weihnachtsbrötle](#weihnachtsbr%C3%B6tle)
   - [Kochideen](#kochideen)
 
 <!-- /TOC -->
@@ -106,6 +107,16 @@ Immer wieder bisschen Wasser zugeben. Falls weiter eingedickt werden soll, vor d
 
 
 ### maultaschen
+
+
+
+
+### Sate-Spieße
+
+- https://herdskasper.de/sate-spiesse-mit-cremiger-erdnuss-sosse/
+- https://www.kuechengoetter.de/rezepte/sate-spiesse-mit-erdnuss-sauce-1242
+- https://www.chefkoch.de/rezepte/191251081345863/Sate-Spiesse.html
+
 
 ### Gelbes Thai Curry
 https://getinspiredeveryday.com/food/my-favorite-yellow-thai-curry/
@@ -241,7 +252,7 @@ Mehl in eine große Schüssel sieben. Milch leicht erwärmen und in einen Rührb
 Diese Flüssigkeit in einem Schwung zum Mehl gießen, weiche Butter und Salz dazu und sofort alles zusammen kräftig verkneten. So lange kneten, bis der Teig elastisch und glatt ist (von Hand etwa 10 Min.). Mit einem feuchten Küchentuch (damit der Teig oben nicht antrocknet) abdecken und um das Doppelte aufgehen lassen. (Kann 2 Stunden dauern.)
 
 
-Eine Backunterlage mit Mehl bestreuen und den gegangenen Hefeteig darauf geben und diesen von Hand nochmals durchkneten. Dann auf die Dicke eines kleinen Fingers auswellen, mit zerlassenem Fett bestreichen und Zucker+Zimt darauf streuen. Mit dem Rädchen ca 3cm breite Streifen schneiden und *locker* aufrollen und auf ein gut gefettetes Blech setzen, dort nochmal aufgehen lassen. Bei 210° f+r ca 20 Minuten hellbraun backen. Vor dem Backen mit Ei oder nach dem Backen mit Zuckerguss bestreichen.
+Eine Backunterlage mit Mehl bestreuen und den gegangenen Hefeteig darauf geben und diesen von Hand nochmals durchkneten. Dann auf die Dicke eines kleinen Fingers auswellen, mit zerlassenem Fett bestreichen und Zucker+Zimt darauf streuen. Mit dem Rädchen ca 3cm breite Streifen schneiden und *locker* aufrollen und auf ein gut gefettetes Blech setzen, dort nochmal aufgehen lassen. Bei 210° für ca 20 Minuten hellbraun backen. Vor dem Backen mit Ei oder nach dem Backen mit Zuckerguss bestreichen.
 
 ### GR Pfannkuchenteig
 - 250g Mehl
