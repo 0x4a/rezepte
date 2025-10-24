@@ -17,6 +17,7 @@
     - [Steffen Hensslers Spaghetti mit frischer Tomatensauce](#steffen-hensslers-spaghetti-mit-frischer-tomatensauce)
     - [italienische Paprikacreme](#italienische-paprikacreme)
     - [Lachs mit Mandel-Bohnen](#lachs-mit-mandel-bohnen)
+    - [Schweinefleisch süß-sauer](#schweinefleisch-s%C3%BC%C3%9F-sauer)
     - [Sopaipillas con Pebre](#sopaipillas-con-pebre)
     - [Lachsfilet in Pistazienbutter](#lachsfilet-in-pistazienbutter)
     - [GR Grießbrei](#gr-grie%C3%9Fbrei)
@@ -128,7 +129,7 @@ https://getinspiredeveryday.com/food/my-favorite-yellow-thai-curry/
 - 250g Spaghetti
 - Salz
 - 1 Schalotte
-- 1 Knolauchzehe
+- 1 Knoblauchzehe
 - 500g reife Flaschen- oder Kirschtomaten
 - 1,5 EL Tomatenmark
 - 1 kleine getrocknete Chilischote
@@ -182,7 +183,51 @@ zusätzlich Hackbällchen und Croutons
 - 1 EL Butter
 
 #### Zubereitung:
-Paprika in Streifen schneiden. Bohnen in Salzwasser ca 15 min kochen, abgießen. Couscous in eine Form geben. Brühe aufkochen, darübergeben. Couscous ca 10 min quellen lassen. Petersilie hacken, Ingwer reiben. Fisch mit Salz, Pfeffer und Zitronensaft würzen. Öl erhitzen. Lachs und Paprika darin 6-8 min braten. Honig, Ingwer und Petersilie zugeben. Die Mandeln in heißer Butter anrösten. Bohnen darin schwenken. 
+Paprika in Streifen schneiden. Bohnen in Salzwasser ca 15 min kochen, abgießen. Couscous in eine Form geben. Brühe aufkochen, darüber geben. Couscous ca 10 min quellen lassen. Petersilie hacken, Ingwer reiben. Fisch mit Salz, Pfeffer und Zitronensaft würzen. Öl erhitzen. Lachs und Paprika darin 6-8 min braten. Honig, Ingwer und Petersilie zugeben. Die Mandeln in heißer Butter anrösten. Bohnen darin schwenken. 
+
+
+### Schweinefleisch süß-sauer
+
+#### Zutaten:
+- 500g Schweinefleisch
+- 2 EL Sojasauce
+- 3 EL Stärke
+- 1 Tasse Basmati-Reis
+
+##### Gemüse
+- 20g Ingwer
+- 3 Knoblauchzehen
+- 1 Möhre
+- 1 große Zwiebel
+- 2 Paprikas
+- 1 Peperoni
+- 3 Frühlingszwiebeln
+- halber Bund Koriander
+- 2 TL Sesamöl
+- Spritzer Fisch-Sauce
+
+##### Sauce
+- 6 EL Sojasauce
+- 2 TL Stärke (in 1 EL Wasser angerührt)
+- 1 TL Sesamöl
+- 2 EL Rohrzucker
+- 3 EL (Reis)essig
+- 2 EL Tomatenmark
+- 4 EL Orangensaft
+
+#### Zubereitung:
+
+
+Möhre in Stifte schneiden, Paprika würfeln, Zwiebel achteln, Peperoni fein schneiden, Koriander hacken.
+Ingwer und Knoblauch fein hacken. Frühlingszwiebeln in Scheiben schneiden.
+
+Fleisch in Würfel schneiden, Stärke mit Wasser anrühren und mit Soja-Sauce mischen, darin kurz marinieren. Abtropfen und in Stärke wenden.
+Fleisch frittieren.
+
+Die Zutaten der Sauce miteinander vermischen.
+Möhre und Zwiebeln mit Sesamöl im Wok scharf anbraten. Paprika, zufügen, weiter anbraten, restliches Gemüse, Knoblauch und Ingwer zugeben.
+
+Dann Sauce zugeben, aufkochen und andicken lassen. Fleisch zugeben und durchschwenken. Mit Reis und Koriander servieren.
 
 
 ### Sopaipillas con Pebre
