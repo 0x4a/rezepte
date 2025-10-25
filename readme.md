@@ -221,8 +221,7 @@ Paprika in Streifen schneiden. Bohnen in Salzwasser ca 15 min kochen, abgießen.
 Möhre in Stifte schneiden, Paprika würfeln, Zwiebel achteln, Peperoni fein schneiden, Koriander hacken.
 Ingwer und Knoblauch fein hacken. Frühlingszwiebeln in Scheiben schneiden.
 
-Fleisch in Würfel schneiden, Stärke mit Wasser anrühren und mit Soja-Sauce mischen, darin kurz marinieren. Abtropfen und in Stärke wenden.
-Fleisch frittieren.
+Fleisch in Würfel schneiden, Stärke mit Wasser anrühren und mit Soja-Sauce mischen, darin kurz marinieren. Abtropfen (Flüssigkeit aufbewahren) und in Stärke (ggf mit Semmelbröseln) wenden. Fleisch frittieren.
 
 Die Zutaten der Sauce miteinander vermischen.
 Möhre und Zwiebeln mit Sesamöl im Wok scharf anbraten. Paprika, zufügen, weiter anbraten, restliches Gemüse, Knoblauch und Ingwer zugeben.
